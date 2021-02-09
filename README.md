@@ -3,8 +3,7 @@
 满招损,谦受益。
 
 #### 个人介绍
-- 有7年+ JAVA 开发经验。
-- 🔭 目前在从事 JAVA 后端研发相关的工作。
+- 🔭 目前在从事 JAVA 后端研发及管理相关的工作。
 - 🌱 正在学习算法及前端。
 - 💬 个人博客: http://zhuyizhuo.online/
 - 📝 Gitee: https://gitee.com/zhuyizhuo

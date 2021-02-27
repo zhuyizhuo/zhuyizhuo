@@ -9,8 +9,7 @@
 - 📝 Gitee: https://gitee.com/zhuyizhuo
 - 🏷️ 开源项目: [代码生成器](http://zhuyizhuo.online/code-generator-doc/)
 - 📫 Email: zhuyizhuo2019@gmail.com
-
-* 👑 一些 GitHub 统计报告：
+- 👑 一些 GitHub 统计报告：
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&hide_langs_below=1&theme=default&line_height=27&layout=compact" />

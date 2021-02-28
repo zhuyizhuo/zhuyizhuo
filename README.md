@@ -3,11 +3,8 @@
 在不断学习的路上。
 
 #### 个人介绍
-- 🔭 目前在从事 JAVA 后端研发及管理相关的工作。
 - 🌱 最近正在学习算法。
-- 💬 个人博客: http://zhuyizhuo.online/
 - 🏷️ 开源项目: [代码生成器](http://zhuyizhuo.online/code-generator-doc/)
-- 📫 Email: zhuyizhuo2019@gmail.com
 - 👑 一些 GitHub 统计报告：
 
 <p align="center">
@@ -22,6 +19,9 @@
 </p>
 
 <!--
+- 🔭 目前在从事 JAVA 后端研发及管理相关的工作。
+- 📫 Email: zhuyizhuo2019@gmail.com
+- 💬 个人博客: http://zhuyizhuo.online/
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zhuyizhuo.zhuyizhuo" alt="visitor badge"/>       
 </p>

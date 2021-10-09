@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [YiZhuo](https://www.zhuyizhuo.online/)! 👋
 
 在不断学习的路上。
 
@@ -46,11 +46,17 @@
 <!-- [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) -->
 
 
-#### GitHub 统计报告：
-<!-- <p align="center"> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&hide=prs&count_private=true&show_icons=true&theme=react" alt="zhuyizhuo's github stats" width="488" height="170" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&layout=compact&theme=react" alt="Top Langs" height="168" />
+</a>
+<!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="zhuyizhuo's Github Stats" />
-</p> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="zhuyizhuo's Github Stats" /> -->
+
 
 <!-- <p align="center">
 <a href= "https://github.com/zhuyizhuo/code-generator/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>

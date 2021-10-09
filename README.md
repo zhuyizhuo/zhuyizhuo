@@ -17,6 +17,7 @@
 [![](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/webstorm/)
 [![](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/pycharm/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)

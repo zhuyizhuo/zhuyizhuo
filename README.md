@@ -1,4 +1,4 @@
-### Hi there, I'm [YiZhuo](https://www.zhuyizhuo.online/)! 👋
+### Hi there, I'm [一卓](https://www.zhuyizhuo.online/)! 👋
 
 在不断学习的路上。
 

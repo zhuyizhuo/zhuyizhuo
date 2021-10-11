@@ -8,7 +8,7 @@
 
 #### 常用工具及环境
 
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=ffffff)](https://www.google.com/intl/zh-CN/chrome/)

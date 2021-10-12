@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&hide=prs&count_private=true&show_icons=true&theme=react" alt="zhuyizhuo's github stats" width="488" height="170" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&layout=compact&theme=react" alt="Top Langs" height="168" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&layout=compact&theme=react&hide=html" alt="Top Langs" height="168" />
 </a>
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&hide_langs_below=1&theme=default&line_height=27&layout=compact" />

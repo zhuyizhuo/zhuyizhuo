@@ -15,7 +15,6 @@
 
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/idea/)
 [![](https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/webstorm/)
-[![](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/pycharm/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=ffffff)](https://code.visualstudio.com/)
 
@@ -45,7 +44,8 @@
 <!-- [![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)](https://www.freenas.org/) -->
 <!-- [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) -->
 
-
+<!-- [![](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/pycharm/)
+ -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&hide=prs&count_private=true&show_icons=true&theme=react" alt="zhuyizhuo's github stats" width="488" height="170" />

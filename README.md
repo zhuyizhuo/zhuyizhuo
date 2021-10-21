@@ -25,7 +25,6 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=Hexo&logoColor=ffffff)](https://hexo.io/zh-cn/)
 
-[![](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java11-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://docs.oracle.com/en/java/javase/11/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -44,6 +43,8 @@
 <!-- [![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)](https://www.freenas.org/) -->
 <!-- [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) -->
 
+<!-- [![](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+ -->
 <!-- [![](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/pycharm/)
  -->
 

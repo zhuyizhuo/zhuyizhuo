@@ -1,39 +1,39 @@
 <div align="center">
-  <a href="README_EN.md" target="_blank">
-    <img src="https://img.shields.io/badge/English%20Version-README-blue?style=for-the-badge" alt="English Version" />
+  <a href="README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Chinese%20Version-%E4%B8%AD%E6%96%87%E7%89%88-blue?style=for-the-badge" alt="Chinese Version" />
   </a>
 </div>
 
-# 👋 你好，我是[一卓](https://www.zhuyizhuo.online/)！
+# 👋 Hello, I'm [Yizhuo](https://www.zhuyizhuo.online/)!
 
-一个对技术充满热情，不断学习与成长的开发者。
+A passionate developer who loves learning and growing continuously.
 
-## 🚀 关于我
+## 🚀 About Me
 
-- 🌱 最近正在整理和优化个人博客，分享技术见解和学习心得
-- 👨‍💻 热衷于开源项目开发与贡献，曾经开源[代码生成器](http://zhuyizhuo.github.io/code-generator-doc/)项目
-- 📊 创建了[技术图谱](https://zhuyizhuo.github.io/technical-graph-doc/)，帮助开发者系统化学习Java技术栈
-- 🌐 拥有个人网站 [zhuyizhuo.online](https://www.zhuyizhuo.online/)，记录技术成长历程
-- 💡 喜欢探索新技术，解决实际问题，不断挑战自我
+- 🌱 Currently organizing and optimizing my personal blog to share technical insights and learning experiences
+- 👨‍💻 Enthusiastic about open-source project development and contributions, previously open-sourced the [Code Generator](http://zhuyizhuo.github.io/code-generator-doc/) project
+- 📊 Created [Technical Graph](https://zhuyizhuo.github.io/technical-graph-doc/) to help developers systematically learn Java technology stack
+- 🌐 Own personal website [zhuyizhuo.online](https://www.zhuyizhuo.online/) documenting my technical growth journey
+- 💡 Enjoy exploring new technologies, solving practical problems, and challenging myself
 
-## 🛠️ 技术栈与工具
+## 🛠️ Tech Stack & Tools
 
-### 主要技能
+### Core Skills
 <div align="center">
   <a href="https://docs.oracle.com/en/java/javase/11/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </a>
 </div>
 
-### 开发工具
+### Development Tools
 <div align="center">
-  <a href="https://www.jetbrains.com/zh-cn/idea/" target="_blank">
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0000FF?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code" />
   </a>
-  <a href="https://www.jetbrains.com/zh-cn/webstorm/" target="_blank">
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank">
     <img src="https://img.shields.io/badge/WebStorm-0086FF?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
@@ -47,7 +47,7 @@
   </a>
 </div>
 
-### 部署与运维
+### Deployment & DevOps
 <div align="center">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -63,12 +63,12 @@
   </a>
 </div>
 
-### 开发平台
+### Development Platforms
 <div align="center">
   <a href="https://www.apple.com/macos/" target="_blank">
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   </a>
-  <a href="https://www.microsoft.com/zh-cn/windows/" target="_blank">
+  <a href="https://www.microsoft.com/windows/" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows" />
   </a>
   <a href="https://ubuntu.com/" target="_blank">
@@ -76,41 +76,41 @@
   </a>
 </div>
 
-## 📚 开源项目
+## 📚 Open Source Projects
 
-### 代码生成器
+### Code Generator
 <a href="http://zhuyizhuo.github.io/code-generator-doc/" target="_blank">
-  <img src="https://img.shields.io/badge/代码生成器-项目文档-blue?style=flat-square" alt="代码生成器" />
+  <img src="https://img.shields.io/badge/Code%20Generator-Project%20Documentation-blue?style=flat-square" alt="Code Generator" />
 </a>
-- 一个高效的代码生成工具，帮助开发者快速生成项目模板和重复性代码
-- 支持自定义模板，提高开发效率
-- 提供详细的使用文档和示例
+- An efficient code generation tool to help developers quickly generate project templates and repetitive code
+- Supports custom templates to improve development efficiency
+- Provides detailed documentation and examples
 
-## 📊 GitHub 数据统计
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub 统计数据" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&layout=compact&theme=tokyonight&hide=html" alt="主要语言" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
   </a>
 </div>
 
-## 🤝 联系我
+## 🤝 Contact Me
 
 <div align="center">
   <a href="https://www.zhuyizhuo.online/" target="_blank">
-    <img src="https://img.shields.io/badge/个人网站-访问-blue?style=flat-square&logo=google-chrome" alt="个人网站" />
+    <img src="https://img.shields.io/badge/Personal%20Website-Visit-blue?style=flat-square&logo=google-chrome" alt="Personal Website" />
   </a>
   <a href="https://github.com/zhuyizhuo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-关注-gray?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-gray?style=flat-square&logo=github" alt="GitHub" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <p>感谢您访问我的 GitHub 主页！欢迎随时交流与合作。</p>
-  <p>⭐️ 如果你喜欢我的项目，请给我一个星标支持！</p>
+  <p>Thank you for visiting my GitHub profile! Feel free to reach out for交流 and collaboration.</p>
+  <p>⭐️ If you like my projects, please give me a star to support!</p>
 </div>

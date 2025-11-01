@@ -10,7 +10,7 @@
 
 ## 🚀 关于我
 
-- 🌱 最近正在整理和优化个人博客，分享技术见解和学习心得
+- 🌱 最近正在整理[spring-boot-samples](https://github.com/zhuyizhuo/spring-boot-samples)项目,包含springboot2.x/3.x集成其他技术栈的示例
 - 📊 创建了[技术图谱](https://zhuyizhuo.github.io/technical-graph-doc/)，帮助开发者系统化学习Java技术栈
 - 🌐 拥有个人网站 [zhuyizhuo.online](https://www.zhuyizhuo.online/)，记录技术成长历程
 - 💡 喜欢探索新技术，解决实际问题，不断挑战自我

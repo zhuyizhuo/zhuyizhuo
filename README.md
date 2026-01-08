@@ -25,17 +25,6 @@
 - 支持自定义模板，提高开发效率
 - 提供详细的使用文档和示例
 
-## 📊 GitHub 数据统计
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhuyizhuo&hide=prs&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub 统计数据" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuyizhuo&layout=compact&theme=tokyonight&hide=html" alt="主要语言" />
-  </a>
-</div>
-
 ## 🤝 联系我
 
 <div align="center">
